@@ -4,6 +4,12 @@
 
 Utilizamos um sistema de gamificação onde o usuário acumula pontos ao reciclar. Esses pontos podem ser convertidos em benefícios reais, como descontos em supermercados e produtos ecológicos.
 
+## Origem do projeto
+
+O Greenpy nasceu como proposta de design para a competição de IHC (Interação Humano-Computador). Na época, o trabalho cobriu o levantamento do problema, o design da solução e o protótipo no Figma, descritos no artigo "Greenpy: Uma Plataforma centrada na colaboração humana para Sustentabilidade" (disponível em [`docs/artigo-greenpy.pdf`](docs/artigo-greenpy.pdf)).
+
+Depois, o projeto foi retomado e implementado como aplicativo funcional (Flutter + Firebase) na disciplina de Engenharia de Software II, com foco em práticas de DevOps.
+
 ## O Problema
 
 A crescente produção de resíduos sólidos é um dos maiores desafios ambientais do nosso tempo. No Brasil, o índice de reciclagem é de apenas 4%. O descarte inadequado de plásticos, metais e lixo eletrônico polui oceanos e solos. Acreditamos que, embora existam campanhas de conscientização, falta um mecanismo eficiente para engajar as pessoas no processo de reciclagem.
@@ -47,10 +53,12 @@ Todo o desenvolvimento deste projeto é gerenciado publicamente através do noss
 ## Autores
 
 Este projeto é baseado no trabalho acadêmico "Greenpy: Uma Plataforma centrada na colaboração humana para Sustentabilidade", desenvolvido na Universidade Federal de Ouro Preto (UFOP).
-A implementação do projeto está sendo desenvolvida para a disciplina de Engenharia de Software II, como aprendizado de noções básicas e especializadas de DevOps.
+A implementação do projeto foi desenvolvido para a disciplina de Engenharia de Software II, como aprendizado de noções básicas e especializadas de DevOps.
 
 * **Otávio Alves Gomes** 
 * **Michelle de Oliveira Pinheiro**
 * **Ana Clara Pereira**
 * **Ana Paula Tadim**
 * **Fábio Tavares**
+
+* **Orientação do artigo:** Prof. Saul Delabrida (UFOP)
